@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"mycrypt"
+	"github.com/OlePaulsen/is105sem03-fork/mycrypt"
 )
 
 func main() {
